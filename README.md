@@ -20,13 +20,14 @@ A home lab I built to learn how a SOC analyst investigates security events in a 
  WIN-ENDPOINT-01  ──(sends logs)──▶  JayPC (Splunk)
  192.168.50.215                      192.168.50.142
 ```
-Make sure to open the md files as I created a incident report for the 3 different labs I ran.
 
 ---
 
 ## What I Investigated
 
 For each one I made the activity happen on the endpoint, found it in Splunk, and wrote a report.
+
+Please review the attached md files, which contain incident reports for each of the three labs I completed.
 
 ### 1. New Admin Account Created
 A new user account was created and added to the Administrators group, then deleted. I found it using Windows Security events and wrote up what happened.
