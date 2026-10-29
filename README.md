@@ -79,7 +79,7 @@ index=* host=WIN-ENDPOINT-01 source="*Sysmon*" "<EventID>22</EventID>" google.co
 ## What's in This Repo
 
 ```
-soc-analyst-home-lab/
+SOC-Analyst-Home-Lab-Splunk/
 ├── README.md
 ├── 01-account-creation.md
 ├── 02-failed-logins.md
