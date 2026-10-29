@@ -20,6 +20,7 @@ A home lab I built to learn how a SOC analyst investigates security events in a 
  WIN-ENDPOINT-01  ──(sends logs)──▶  JayPC (Splunk)
  192.168.50.215                      192.168.50.142
 ```
+Make sure to open the md files as I created a incident report for the 3 different labs I ran.
 
 ---
 
